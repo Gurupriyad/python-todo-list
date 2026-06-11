@@ -1,0 +1,4 @@
+tasks.txt
+Complete Python assignment
+Prepare seminar slides
+Practice coding questions
